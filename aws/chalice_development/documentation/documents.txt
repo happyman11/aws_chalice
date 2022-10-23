@@ -7,6 +7,10 @@ https://realpython.com/aws-chalice-serverless-python/
 export AWS_DEFAULT_REGION=us-west-2
 install chalice
 
+https://github.com/model-zoo/scikit-learn-lambda/blob/master/layers.csv
+arn:aws:lambda:us-west-2:446751924810:layer:python-3-8-scikit-learn-0-23-1:4
+
+
 
 chalice new-project <nameproject>
 
