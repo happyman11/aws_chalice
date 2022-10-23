@@ -1,0 +1,26 @@
+https://aws.amazon.com/blogs/developer/deploying-aws-chalice-application-using-aws-cloud-development-kit/
+
+https://hevodata.com/learn/aws-chalice/
+
+https://realpython.com/aws-chalice-serverless-python/
+
+export AWS_DEFAULT_REGION=us-west-2
+install chalice
+
+
+chalice new-project <nameproject>
+
+
+Building the infrastructure logic
+
+
+
+Run locally
+chalice local
+
+
+Lambds Deployement
+
+chalice deploy
+
+chalice delete
